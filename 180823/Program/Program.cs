@@ -56,7 +56,7 @@ listaLocales.Add(
         new Direccion(
             "Jujuy",
             255,
-            "Si"
+            "CABA"
         ),
         listaPelicula,
         listaPrestamo,
@@ -81,7 +81,9 @@ foreach (var local in Blockbuster.ListaLocal)
     Console.WriteLine("   - Local: " + local);
     Console.ForegroundColor = ConsoleColor.White;
 
-    Console.WriteLine("      - Lista de Peliculas: ");
+    Console.WriteLine($"      - Ubicación: {local.Direccion.Calle} {local.Direccion.Altura} ({local.Direccion.Ciudad})");
+
+    Console.WriteLine("      - Lista de Películas: ");
     foreach (var pelicula in local.ListaPelicula)
     {
         Console.WriteLine($"           > {pelicula.Titulo} - {pelicula.Duracion}min - {pelicula.Genero}");
@@ -100,6 +102,6 @@ foreach (var local in Blockbuster.ListaLocal)
         Console.WriteLine($"               » ID Persona: {prestamo.Cliente.ID}");
         Console.WriteLine($"               » Prestatario: {prestamo.Cliente.Nombre} {prestamo.Cliente.Apellido}");
         Console.WriteLine($"               » Fecha: {prestamo.FechaPrestamo.Dia}/{prestamo.FechaPrestamo.Mes}/{prestamo.FechaPrestamo.Anio}");
-        Console.WriteLine($"               » Cantidad de Dias: {prestamo.CantidadDias}");
+        Console.WriteLine($"               » Cantidad de Días: {prestamo.CantidadDias}");
     }
 }
