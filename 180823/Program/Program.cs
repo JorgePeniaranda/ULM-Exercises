@@ -97,9 +97,9 @@ foreach (var local in Blockbuster.ListaLocal)
     foreach (var prestamo in local.ListaPrestamo)
     {
         Console.WriteLine($"           > {prestamo.Pelicula.Titulo}");
-        Console.WriteLine($"               ID Persona: {prestamo.Cliente.ID}");
-        Console.WriteLine($"               Prestatario: {prestamo.Cliente.Nombre} {prestamo.Cliente.Apellido}");
-        Console.WriteLine($"               Fecha: {prestamo.FechaPrestamo.Dia}/{prestamo.FechaPrestamo.Mes}/{prestamo.FechaPrestamo.Anio}");
-        Console.WriteLine($"               Cantidad de Dias: {prestamo.CantidadDias}");
+        Console.WriteLine($"               » ID Persona: {prestamo.Cliente.ID}");
+        Console.WriteLine($"               » Prestatario: {prestamo.Cliente.Nombre} {prestamo.Cliente.Apellido}");
+        Console.WriteLine($"               » Fecha: {prestamo.FechaPrestamo.Dia}/{prestamo.FechaPrestamo.Mes}/{prestamo.FechaPrestamo.Anio}");
+        Console.WriteLine($"               » Cantidad de Dias: {prestamo.CantidadDias}");
     }
 }
