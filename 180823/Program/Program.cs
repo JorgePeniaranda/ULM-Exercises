@@ -52,7 +52,7 @@ listaPrestamo.Add(
 List<Local> listaLocales = new List<Local>();
 listaLocales.Add(
     new Local(
-        "Local 1", 
+        "Blockbuster",
         new Direccion(
             "Jujuy",
             255,
@@ -71,4 +71,35 @@ AlquilerPeliculas Blockbuster = new AlquilerPeliculas(
 );
 
 // Mostrar
-Console.WriteLine(Blockbuster);
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine(Blockbuster.Nombre);
+Console.ForegroundColor = ConsoleColor.White;
+
+foreach (var local in Blockbuster.ListaLocal)
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine("   - Local: " + local);
+    Console.ForegroundColor = ConsoleColor.White;
+
+    Console.WriteLine("      - Lista de Peliculas: ");
+    foreach (var pelicula in local.ListaPelicula)
+    {
+        Console.WriteLine($"           > {pelicula.Titulo} - {pelicula.Duracion}min - {pelicula.Genero}");
+    }
+
+    Console.WriteLine("      - Lista de Clientes: ");
+    foreach (var cliente in local.ListaCliente)
+    {
+        Console.WriteLine($"           > ID:{cliente.ID} - {cliente.Nombre} {cliente.Apellido} - {cliente.Direccion.Calle} {cliente.Direccion.Altura} ({cliente.Direccion.Ciudad}) ");
+    }
+
+    Console.WriteLine("      - Lista de Prestamos: ");
+    foreach (var prestamo in local.ListaPrestamo)
+    {
+        Console.WriteLine($"           > {prestamo.Pelicula.Titulo}");
+        Console.WriteLine($"               ID Persona: {prestamo.Cliente.ID}");
+        Console.WriteLine($"               Prestatario: {prestamo.Cliente.Nombre} {prestamo.Cliente.Apellido}");
+        Console.WriteLine($"               Fecha: {prestamo.FechaPrestamo.Dia}/{prestamo.FechaPrestamo.Mes}/{prestamo.FechaPrestamo.Anio}");
+        Console.WriteLine($"               Cantidad de Dias: {prestamo.CantidadDias}");
+    }
+}
