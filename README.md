@@ -2,4 +2,4 @@
 
 ## Lista Check de Ejercicios
 
-- [] 18-08-23
+- [x] 18-08-23
