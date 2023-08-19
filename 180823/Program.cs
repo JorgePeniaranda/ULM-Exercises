@@ -1,1 +1,0 @@
-﻿AlquilerPeliculas alquiler = new AlquilerPeliculas();

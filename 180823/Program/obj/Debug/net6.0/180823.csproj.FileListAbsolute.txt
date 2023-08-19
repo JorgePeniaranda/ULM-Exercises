@@ -1,0 +1,15 @@
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\bin\Debug\net6.0\180823.exe
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\bin\Debug\net6.0\180823.deps.json
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\bin\Debug\net6.0\180823.runtimeconfig.json
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\bin\Debug\net6.0\180823.dll
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\bin\Debug\net6.0\180823.pdb
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.dll
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\refint\180823.dll
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.pdb
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\180823.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\ULM-Exercises\180823\Program\obj\Debug\net6.0\ref\180823.dll
