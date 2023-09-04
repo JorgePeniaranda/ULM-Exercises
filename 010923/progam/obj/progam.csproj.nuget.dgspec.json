@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Almacen\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj": {}
+    "E:\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj": {}
   },
   "projects": {
-    "E:\\Almacen\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj": {
+    "E:\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Almacen\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj",
+        "projectUniqueName": "E:\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj",
         "projectName": "progam",
-        "projectPath": "E:\\Almacen\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj",
+        "projectPath": "E:\\Proyectos\\ULM-Exercises\\010923\\progam\\progam.csproj",
         "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-        "outputPath": "E:\\Almacen\\Proyectos\\ULM-Exercises\\010923\\progam\\obj\\",
+        "outputPath": "E:\\Proyectos\\ULM-Exercises\\010923\\progam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

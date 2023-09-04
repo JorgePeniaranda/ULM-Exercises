@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Almacen\\Proyectos\\ULM-Exercises\\250823\\Program\\Program.csproj",
+      "projectUniqueName": "e:\\Proyectos\\ULM-Exercises\\250823\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "E:\\Almacen\\Proyectos\\ULM-Exercises\\250823\\Program\\Program.csproj",
+      "projectPath": "e:\\Proyectos\\ULM-Exercises\\250823\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "E:\\Almacen\\Proyectos\\ULM-Exercises\\250823\\Program\\obj\\",
+      "outputPath": "e:\\Proyectos\\ULM-Exercises\\250823\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

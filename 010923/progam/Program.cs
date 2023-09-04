@@ -45,7 +45,7 @@ listUsuario.Add(
 );
 listUsuario.Add(
     new Usuario(
-        "Francisco José Trujillo Sztai",
+        "Francisco José Trujillo Szitai",
         78,
         2109482147,
         listAplicacion
@@ -93,7 +93,7 @@ listResenia.Add(
     new Resenia(
         listUsuario[4],
         "Catastrofico",
-        "Considero este juego malisimo",
+        "Considero este juego malardo",
         new Fecha(1, 9, 2023),
         false
     )
@@ -131,6 +131,7 @@ Console.ResetColor();
 foreach (var aplicacion in plataforma.ListAplicacion)
 {
     Console.WriteLine($"     > {aplicacion.Nombre}:");
+    Console.WriteLine($"          » {aplicacion.getCategoria()}");
     Console.WriteLine($"          » ${aplicacion.Precio.ToString("0,0.00")}");
     Console.WriteLine($"          » {(aplicacion.EstaEnAccesoAnticipado ? "Está" : "No está")} en acceso anticipado");
     Console.WriteLine($"          » {aplicacion.Valoracion}/5");

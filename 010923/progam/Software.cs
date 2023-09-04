@@ -11,4 +11,10 @@ class Software : Aplicacion
     {
         this.categoria = categoria;
     }
+
+    // Get Categoria
+    public override string getCategoria()
+    {
+        return categoria.ToString();
+    }
 }

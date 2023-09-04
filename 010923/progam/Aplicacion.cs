@@ -23,4 +23,7 @@ abstract class Aplicacion
         this.valoracion = valoracion;
         this.listResenia = listResenia;
     }
+
+    // Get Categoria
+    public abstract string getCategoria();
 }
