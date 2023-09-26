@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\old ULM-Exercises\\Steam (010923)\\progam\\progam.csproj": {}
+    "E:\\Proyectos\\old ULM-Exercises\\Casa de empeño (090923)\\program\\program.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\old ULM-Exercises\\Steam (010923)\\progam\\progam.csproj": {
+    "E:\\Proyectos\\old ULM-Exercises\\Casa de empeño (090923)\\program\\program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\old ULM-Exercises\\Steam (010923)\\progam\\progam.csproj",
-        "projectName": "progam",
-        "projectPath": "E:\\Proyectos\\old ULM-Exercises\\Steam (010923)\\progam\\progam.csproj",
+        "projectUniqueName": "E:\\Proyectos\\old ULM-Exercises\\Casa de empeño (090923)\\program\\program.csproj",
+        "projectName": "program",
+        "projectPath": "E:\\Proyectos\\old ULM-Exercises\\Casa de empeño (090923)\\program\\program.csproj",
         "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\old ULM-Exercises\\Steam (010923)\\progam\\obj\\",
+        "outputPath": "E:\\Proyectos\\old ULM-Exercises\\Casa de empeño (090923)\\program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

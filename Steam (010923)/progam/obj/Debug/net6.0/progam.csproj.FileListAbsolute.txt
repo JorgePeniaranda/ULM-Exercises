@@ -28,3 +28,18 @@ E:\Proyectos\ULM-Exercises\010923\progam\obj\Debug\net6.0\refint\progam.dll
 E:\Proyectos\ULM-Exercises\010923\progam\obj\Debug\net6.0\progam.pdb
 E:\Proyectos\ULM-Exercises\010923\progam\obj\Debug\net6.0\progam.genruntimeconfig.cache
 E:\Proyectos\ULM-Exercises\010923\progam\obj\Debug\net6.0\ref\progam.dll
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\bin\Debug\net6.0\progam.exe
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\bin\Debug\net6.0\progam.deps.json
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\bin\Debug\net6.0\progam.runtimeconfig.json
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\bin\Debug\net6.0\progam.dll
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\bin\Debug\net6.0\progam.pdb
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.csproj.AssemblyReference.cache
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.AssemblyInfoInputs.cache
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.AssemblyInfo.cs
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.csproj.CoreCompileInputs.cache
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.dll
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\refint\progam.dll
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.pdb
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\progam.genruntimeconfig.cache
+E:\Proyectos\old ULM-Exercises\Steam (010923)\progam\obj\Debug\net6.0\ref\progam.dll
